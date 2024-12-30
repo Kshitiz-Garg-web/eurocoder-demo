@@ -1,2 +1,2 @@
 # eurocoder-demo
-it is for learning for git and github
+hello coders, i am kshitiz garg ( eurocodr ) and today we are there for learning git and github after completing the uses of terminal.
