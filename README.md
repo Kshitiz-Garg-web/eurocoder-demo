@@ -8,3 +8,4 @@ i am self taught developer since 2024, have been learning 2 pillars of tech worl
 1- DSA
 2- Development skills
 to become a software developer.
+3- dsa + development skills + system design + ai skills => true software engineer.
